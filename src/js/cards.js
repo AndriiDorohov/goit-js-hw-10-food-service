@@ -1,5 +1,5 @@
 import cardsTemplates from '../templates/cards.hbs';
-import menu from '../menu.json'
+import menu from '../menu.json';
 
 const markup = cardsTemplates(menu);
 
