@@ -6,25 +6,25 @@
 "image": "https://s1.eda.ru/StaticContent/Photos/140812180013/140820212258/p_O.jpg ",
 "price": 100,
 "ingredients": [
-      "Potato",
+"Potato",
 "Garlic",
 "Sour Cream",
 "Bacon",
-      "Hard cheese",
-      "Green onion"
-    ]
-  },
-  {
+"Hard cheese",
+"Green onion"
+]
+},
+{
 "id": "pkXzyRp1P",
 "name": "Tomato Maghreb soup",
 "description": "Tomato Maghreb soup is especially common in Morocco and Tunisia. It is very easy to prepare and light in itself — based on tomatoes and chicken broth. In addition to them, the soup contains only the necessary spices, honey and lemon, which all together convey the same oriental flavor. The taste of the soup depends entirely on the quality of tomatoes. Fresh cilantro and individual lemon slices will complement the dish.",
-    "image": "https://www.go-cook.ru/wp-content/uploads/2014/11/magribskij-tomatnyj-sup.jpg ",
+"image": "https://www.go-cook.ru/wp-content/uploads/2014/11/magribskij-tomatnyj-sup.jpg ",
 "price": 150,
 "ingredients": [
 "Tomatoes",
 "Chicken broth",
-      "Honey",
-      "Parsley",
+"Honey",
+"Parsley",
 "Cilantro",
 "Paprika"
 ]
@@ -33,15 +33,15 @@
 "id": "QMom9q4Ku",
 "name": "Pumpkin cream soup",
 "description": "A portrait of this orange soup adorns the cover of the book «La Cuisine du Marché» by Paul Bocuse. Bocuse, who invented the so—called new cuisine, considered pumpkin one of the foundations of this world order, and pumpkin soup - a kind of amniotic fluid of gastronomy.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png ",
+"image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png ",
 "price": 100,
 "ingredients": ["Pumpkin", "Parsley", "Cream", "Brandy", "Chicken broth"]
 },
-  {
+{
 "id": "k2k0UrjZG",
 "name": "Red bean salad with cottage cheese",
 "description": "Tuscan salad, aged in the colors of the Italian flag. Literally a few spoons are enough to form a pleasant heaviness in the stomach. A very useful thing from the point of view of the morning, when it is difficult to cram large doses of biomass into yourself, but you want to eat at the same time.",
-    "image": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg ",
+"image": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg ",
 "price": 150,
 "ingredients": [
 "Beans",
@@ -49,14 +49,14 @@
 "Garlic",
 "Olive oil",
 "Cottage cheese",
-      "Red Onion"
-    ]
-  },
-  {
+"Red Onion"
+]
+},
+{
 "id": "j2k8U1jZd",
 "name": "Classic Greek salad",
 "description": "This is a recipe from an old cookbook brought from Greece. The secret of the salad is the freshest vegetables and good feta. Only olive oil is used for the salad, and spices such as oregano and basil are the hallmark of Greek cuisine.",
-    "image": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg" ,
+"image": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg" ,
 "price": 350,
 "ingredients": [
 "Olive oil",
@@ -64,14 +64,14 @@
 "Garlic",
 "Tomatoes",
 "Red Onion",
-      "Feta cheese",
+"Feta cheese",
 "Olives"
-    ]
-  },
-  {
+]
+},
+{
 "id": "X2aQ7cvkd",
 "name": "Blueberry and nutmeg muffins",
-    "description": "The iconic berry, which we have learned to produce all year round, in combination with a loose dough is an absolutely win—win option. Blueberry muffins have become a popular dessert in England and America, although their origin is French. And in general, these little sweet cupcakes, as we know them now, were conceived as ordinary bread and tasted neutral.",
+"description": "The iconic berry, which we have learned to produce all year round, in combination with a loose dough is an absolutely win—win option. Blueberry muffins have become a popular dessert in England and America, although their origin is French. And in general, these little sweet cupcakes, as we know them now, were conceived as ordinary bread and tasted neutral.",
 "image": "https://s1.eda.ru/StaticContent/Photos/120131111301/140324110953/p_O.jpg ",
 "price": 170,
 "ingredients": [
@@ -79,34 +79,34 @@
 "Wheat flour",
 "Blueberries",
 "Vanilla extract",
-      "Nutmeg"
-    ]
-  },
-  {
+"Nutmeg"
+]
+},
+{
 "id": "nk3zy1pf8",
 "name": "Azu in Tatar",
-    "description": "One of the few dishes awarded in the Soviet food tradition of selling with a nominal cut. And to this day, in cookeries and supermarkets, you can find beef that is cut into strips and sold as an azu. There are still disputes about the dish itself, how and with what to cook: use beef or lamb, ghee or plain butter, stew in a cauldron or a saucepan with a thick bottom. There may be many versions of this dish, but its basis is always the same — it is sliced meat, potatoes and tomato sauce.",
-    "image": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg ",
+"description": "One of the few dishes awarded in the Soviet food tradition of selling with a nominal cut. And to this day, in cookeries and supermarkets, you can find beef that is cut into strips and sold as an azu. There are still disputes about the dish itself, how and with what to cook: use beef or lamb, ghee or plain butter, stew in a cauldron or a saucepan with a thick bottom. There may be many versions of this dish, but its basis is always the same — it is sliced meat, potatoes and tomato sauce.",
+"image": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg ",
 "price": 270,
 "ingredients": [
 "Beef",
 "Pickles",
 "Potatoes",
 "Meat broth",
-      "Garlic"
-    ]
-  },
-  {
+"Garlic"
+]
+},
+{
 "id": "b7k2U13fd",
 "name": "Fried rice with egg in Chinese",
-    "description": "Fried rice is a fairly common ingredient in East Asian cuisine — you can cook, in fact, from the remains of yesterday's dinner. Only well-cooled, pre-cooked rice, ideally standing all night in the refrigerator, when it gets into a hot wok, will not spread to the state of porridge and will not turn the contents of the frying pan into a clumsy shapeless lump.",
+"description": "Fried rice is a fairly common ingredient in East Asian cuisine — you can cook, in fact, from the remains of yesterday's dinner. Only well-cooled, pre-cooked rice, ideally standing all night in the refrigerator, when it gets into a hot wok, will not spread to the state of porridge and will not turn the contents of the frying pan into a clumsy shapeless lump.",
 "image": "https://s2.eda.ru/StaticContent/Photos/150428090447/150505141508/p_O.jpg ",
 "price": 240,
 "ingredients": [
 "Round rice",
 "Mini zucchini",
 "Grated ginger",
-      "Shiitake mushrooms",
+"Shiitake mushrooms",
 "Soy sauce",
 "Sesame oil"
 ]
