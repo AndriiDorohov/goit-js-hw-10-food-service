@@ -1,114 +1,114 @@
 [
-  {
-    "id": "XWaQXcbk0",
-    "name": "Картофель, запеченный в мундире",
-    "description": "Ароматный, сытный, шипящий домашний картофель, фаршированный сметанно-беконной начинкой, — это очень простой и очень эффектный способ накормить большое количество человек, практически не потратив на готовку ни сил, ни времени. Обычную картошку при желании тут можно заменить на сладкий батат, а в начинку добавить, к примеру, кукурузу или сладкий красный перец.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/140812180013/140820212258/p_O.jpg",
-    "price": 100,
-    "ingredients": [
-      "Картофель",
-      "Чеснок",
-      "Сметана",
-      "Бекон",
-      "Твердый сыр",
-      "Зеленый лук"
+{
+"id": "XWaQXcbk0",
+"name": "Potatoes baked in a uniform",
+"description": "Fragrant, hearty, sizzling homemade potatoes stuffed with sour cream and bacon filling is a very simple and very effective way to feed a large number of people, practically without spending any money on cooking strength, no time. If desired, you can replace ordinary potatoes with sweet potatoes, and add, for example, corn or sweet red pepper to the filling.",
+"image": "https://s1.eda.ru/StaticContent/Photos/140812180013/140820212258/p_O.jpg ",
+"price": 100,
+"ingredients": [
+      "Potato",
+"Garlic",
+"Sour Cream",
+"Bacon",
+      "Hard cheese",
+      "Green onion"
     ]
   },
   {
-    "id": "pkXzyRp1P",
-    "name": "Томатный магрибский суп",
-    "description": "Томатный магрибский суп особенно распространен в Марокко и Тунисе. Он весьма прост в приготовлении и сам по себе легкий — в основе томаты и куриный бульон. Кроме них в супе только необходимые специи, мед и лимон, которые все вместе и передают тот самый восточный колорит. Вкус супа всецело зависит от качества томатов. Дополнят блюдо свежая кинза и отдельные дольки лимона.",
-    "image": "https://www.go-cook.ru/wp-content/uploads/2014/11/magribskij-tomatnyj-sup.jpg",
-    "price": 150,
-    "ingredients": [
-      "Помидоры",
-      "Куриный бульон",
-      "Мед",
-      "Петрушка",
-      "Кинза",
-      "Паприка"
+"id": "pkXzyRp1P",
+"name": "Tomato Maghreb soup",
+"description": "Tomato Maghreb soup is especially common in Morocco and Tunisia. It is very easy to prepare and light in itself — based on tomatoes and chicken broth. In addition to them, the soup contains only the necessary spices, honey and lemon, which all together convey the same oriental flavor. The taste of the soup depends entirely on the quality of tomatoes. Fresh cilantro and individual lemon slices will complement the dish.",
+    "image": "https://www.go-cook.ru/wp-content/uploads/2014/11/magribskij-tomatnyj-sup.jpg ",
+"price": 150,
+"ingredients": [
+"Tomatoes",
+"Chicken broth",
+      "Honey",
+      "Parsley",
+"Cilantro",
+"Paprika"
+]
+},
+  {
+"id": "QMom9q4Ku",
+"name": "Pumpkin cream soup",
+"description": "A portrait of this orange soup adorns the cover of the book «La Cuisine du Marché» by Paul Bocuse. Bocuse, who invented the so—called new cuisine, considered pumpkin one of the foundations of this world order, and pumpkin soup - a kind of amniotic fluid of gastronomy.",
+    "image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png ",
+"price": 100,
+"ingredients": ["Pumpkin", "Parsley", "Cream", "Brandy", "Chicken broth"]
+},
+  {
+"id": "k2k0UrjZG",
+"name": "Red bean salad with cottage cheese",
+"description": "Tuscan salad, aged in the colors of the Italian flag. Literally a few spoons are enough to form a pleasant heaviness in the stomach. A very useful thing from the point of view of the morning, when it is difficult to cram large doses of biomass into yourself, but you want to eat at the same time.",
+    "image": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg ",
+"price": 150,
+"ingredients": [
+"Beans",
+"Salt",
+"Garlic",
+"Olive oil",
+"Cottage cheese",
+      "Red Onion"
     ]
   },
   {
-    "id": "QMom9q4Ku",
-    "name": "Крем-суп из тыквы",
-    "description": "Портрет этой оранжевой похлебки украшает обложку книги «La Cuisine du Marché» Поля Бокюза. Бокюз, придумавший так называемую новую кухню, считал тыкву одной из основ этого миропорядка, а тыквенный суп — эдакой околоплодной водой гастрономии.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png",
-    "price": 100,
-    "ingredients": ["Тыква", "Петрушка", "Сливки", "Бренди", "Куриный бульон"]
-  },
-  {
-    "id": "k2k0UrjZG",
-    "name": "Салат из красной фасоли с творожным сыром",
-    "description": "Тосканский салат, выдержанный в колористике итальянского флага. Буквально нескольких ложек хватает, чтобы в желудке образовалась приятная тяжесть. Очень полезная штука с точки зрения утра, когда трудно запихнуть в себя крупные дозы биомассы, а есть при этом хочется.",
-    "image": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg",
-    "price": 150,
-    "ingredients": [
-      "Фасоль",
-      "Соль",
-      "Чеснок",
-      "Оливковое масло",
-      "Творожный сыр",
-      "Красный лук"
+"id": "j2k8U1jZd",
+"name": "Classic Greek salad",
+"description": "This is a recipe from an old cookbook brought from Greece. The secret of the salad is the freshest vegetables and good feta. Only olive oil is used for the salad, and spices such as oregano and basil are the hallmark of Greek cuisine.",
+    "image": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg" ,
+"price": 350,
+"ingredients": [
+"Olive oil",
+"Lemon juice",
+"Garlic",
+"Tomatoes",
+"Red Onion",
+      "Feta cheese",
+"Olives"
     ]
   },
   {
-    "id": "j2k8U1jZd",
-    "name": "Классический греческий салат ",
-    "description": "Это рецепт из старой, привезенной из Греции, кулинарной книги. Секрет салата — свежайшие овощи и хорошая фета. Для салата используют только оливковое масло, а такие специи, как орегано и базилик, являются визитной карточкой греческой кухни.",
-    "image": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg",
-    "price": 350,
-    "ingredients": [
-      "Оливковое масло",
-      "Лимонный сок",
-      "Чеснок",
-      "Помидоры",
-      "Красный лук",
-      "Сыр фета",
-      "Маслины"
+"id": "X2aQ7cvkd",
+"name": "Blueberry and nutmeg muffins",
+    "description": "The iconic berry, which we have learned to produce all year round, in combination with a loose dough is an absolutely win—win option. Blueberry muffins have become a popular dessert in England and America, although their origin is French. And in general, these little sweet cupcakes, as we know them now, were conceived as ordinary bread and tasted neutral.",
+"image": "https://s1.eda.ru/StaticContent/Photos/120131111301/140324110953/p_O.jpg ",
+"price": 170,
+"ingredients": [
+"Butter",
+"Wheat flour",
+"Blueberries",
+"Vanilla extract",
+      "Nutmeg"
     ]
   },
   {
-    "id": "X2aQ7cvkd",
-    "name": "Маффины с голубикой и мускатным орехом",
-    "description": "Культовая ягода, которую научились производить круглый год, в сочетании с рыхлым тестом — это абсолютно беспроигрышный вариант. Маффины с голубикой стали популярным десертом в Англии и Америке, хотя происхождение их французское. Да и вообще эти маленькие сладкие кексы, какими мы их знаем сейчас, задумывались как обычный хлеб и на вкус были нейтральны.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/120131111301/140324110953/p_O.jpg",
-    "price": 170,
-    "ingredients": [
-      "Сливочное масло",
-      "Пшеничная мука",
-      "Голубика",
-      "Ванильный экстракт",
-      "Мускатный орех"
+"id": "nk3zy1pf8",
+"name": "Azu in Tatar",
+    "description": "One of the few dishes awarded in the Soviet food tradition of selling with a nominal cut. And to this day, in cookeries and supermarkets, you can find beef that is cut into strips and sold as an azu. There are still disputes about the dish itself, how and with what to cook: use beef or lamb, ghee or plain butter, stew in a cauldron or a saucepan with a thick bottom. There may be many versions of this dish, but its basis is always the same — it is sliced meat, potatoes and tomato sauce.",
+    "image": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg ",
+"price": 270,
+"ingredients": [
+"Beef",
+"Pickles",
+"Potatoes",
+"Meat broth",
+      "Garlic"
     ]
   },
   {
-    "id": "nk3zy1pf8",
-    "name": "Азу по‑татарски",
-    "description": "Одно из немногих блюд, удостоившихся в советской продуктовой традиции продажи с именной нарезкой. И до сих пор в кулинариях и супермаркетах можно найти говядину, которую режут соломкой и продают как азу. Насчет самого блюда до сих пор идут споры, как и с чем готовить: использовать говядину или баранину, топленое или обычное масло, тушить в казане или сотейнике с толстым дном. Редакций этого блюда может быть много, но основа его всегда неизменна — это нарезанное соломкой мясо, картофель и томатный соус.",
-    "image": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg",
-    "price": 270,
-    "ingredients": [
-      "Говядина",
-      "Соленые огурцы",
-      "Картофель",
-      "Мясной бульон",
-      "Чеснок"
-    ]
-  },
-  {
-    "id": "b7k2U13fd",
-    "name": "Жареный рис с яйцом по‑китайски",
-    "description": "Жареный рис — довольно распространенный ингредиент блюд восточноазиатской кухни — готовить, в сущности, можно из остатков вчерашнего ужина. Только хорошо остывший, заранее сваренный рис, в идеале простоявший всю ночь в холодильнике, при попадании в раскаленный вок не расползется до состояния каши и не превратит содержимое сковородки в неповоротливый бесформенный ком.",
-    "image": "https://s2.eda.ru/StaticContent/Photos/150428090447/150505141508/p_O.jpg",
-    "price": 240,
-    "ingredients": [
-      "Круглый рис",
-      "Мини цукини",
-      "Тертый имбирь",
-      "Грибы шиитаке",
-      "Соевый соус",
-      "Кунжутное масло"
-    ]
-  }
+"id": "b7k2U13fd",
+"name": "Fried rice with egg in Chinese",
+    "description": "Fried rice is a fairly common ingredient in East Asian cuisine — you can cook, in fact, from the remains of yesterday's dinner. Only well-cooled, pre-cooked rice, ideally standing all night in the refrigerator, when it gets into a hot wok, will not spread to the state of porridge and will not turn the contents of the frying pan into a clumsy shapeless lump.",
+"image": "https://s2.eda.ru/StaticContent/Photos/150428090447/150505141508/p_O.jpg ",
+"price": 240,
+"ingredients": [
+"Round rice",
+"Mini zucchini",
+"Grated ginger",
+      "Shiitake mushrooms",
+"Soy sauce",
+"Sesame oil"
+]
+}
 ]
